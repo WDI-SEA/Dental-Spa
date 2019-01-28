@@ -4,12 +4,13 @@
 
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
+  height: 50px;
+  margin-top: 25px;
 }
 
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
+  min-height: 250px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -30,3 +31,77 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  background-color: #ffffba;
+}
+
+nav {
+  min-height: 75px;
+  width: 100%;
+  background-color: #26359a;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 15px;
+}
+
+nav a {
+  text-decoration: none;
+  color: chartreuse;
+}
+
+nav a:hover,
+nav a:visited:hover {
+  color: yellow;
+}
+
+nav a:visited {
+  color: hotpink;
+}
+
+h1 {
+  color: pink;
+  font-family: "Comic Sans MS";
+}
+
+.subtext {
+  color: hotpink;
+  font-family: "Brush Script MT";
+  font-size: 28px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
