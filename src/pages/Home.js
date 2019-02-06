@@ -9,7 +9,7 @@ class Home extends Component {
           Treat your teeth to what they really deserve!
         </p>
         <div className="image">
-          <img src="https://www.yourdentistryguide.com/wp-content/uploads/2017/12/dental-spa-smile-924x425.jpg" />
+          <img alt="akjshd akshd" src="https://www.yourdentistryguide.com/wp-content/uploads/2017/12/dental-spa-smile-924x425.jpg" />
         </div>
         <div>
           <p>You and your teeth with have the most unreal experience together.</p>
